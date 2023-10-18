@@ -1,6 +1,0 @@
-﻿Task name,Status,Priority,Project,Team,QA Status,Assign
-Animation on sidebar close,New,Low,Database quick filters (https://www.notion.so/Database-quick-filters-3502a32857b145829e6d455fdbb932d2?pvs=21),https://www.notion.so/ec5e4e39379348ac9baeae5d6b7254fa,QA Waiting,Sohrab Amin
-“Save for everyone” button doesn’t persist,New,Medium,Database quick filters (https://www.notion.so/Database-quick-filters-3502a32857b145829e6d455fdbb932d2?pvs=21),https://www.notion.so/ec5e4e39379348ac9baeae5d6b7254fa,QA Waiting,Andrea Lim
-Select data source from existing databases,QA,🔥 High,Database quick filters (https://www.notion.so/Database-quick-filters-3502a32857b145829e6d455fdbb932d2?pvs=21),https://www.notion.so/ec5e4e39379348ac9baeae5d6b7254fa,Ready for QA,Nate Martins
-Hide database title affects linked database,Completed,Medium,Database quick filters (https://www.notion.so/Database-quick-filters-3502a32857b145829e6d455fdbb932d2?pvs=21),https://www.notion.so/ec5e4e39379348ac9baeae5d6b7254fa,QA Passed,Ben Lang
-Add filter quick views,Completed,🔥 High,Database quick filters (https://www.notion.so/Database-quick-filters-3502a32857b145829e6d455fdbb932d2?pvs=21),https://www.notion.so/ec5e4e39379348ac9baeae5d6b7254fa,QA Passed,David Tibbitts
