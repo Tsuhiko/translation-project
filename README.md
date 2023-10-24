@@ -17,4 +17,4 @@
 1. Клонуйте цей репозиторій:
 
    ```sh
-   git clone 
+   git clone https://github.com/Tsuhiko/translation-project.git
